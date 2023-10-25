@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali Bassam</h1>
 <h3 align="center">A passionate front-end developer from Pakistan</h3>
-
+<img src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0" align="right" width="400" alt="coding" >
 - 🌱 I’m currently learning **Javascript, react, Bootstrap**
 
 - 👨‍💻 All of my projects are available at [Coming Soon](Coming Soon)
