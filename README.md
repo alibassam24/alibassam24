@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif" alt="MasterHead" height="200" align="center" >
+<img src="https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif" alt="MasterHead"  >
 
 <h1 align="center">Hi 👋, I'm Ali Bassam</h1>
 <h3 align="center">A passionate front-end developer from Pakistan</h3>
