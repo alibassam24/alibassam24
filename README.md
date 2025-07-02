@@ -8,7 +8,6 @@
 - 🌐 Created dynamic web and e-commerce websites  
 - 🔍 Interested in AI/ML, web scraping, and software product development  
 - 📫 Reach me at: **alibassam063@gmail.com**  
-- 🌐 Portfolio: [alibassam.netlify.app](https://alibassam.netlify.app)  
 - 📄 LinkedIn: [linkedin.com/in/alibassam1](https://linkedin.com/in/alibassam1)  
 
 ## 🚀 Projects
