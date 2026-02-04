@@ -6,8 +6,7 @@
 
 ---
 
-- 🎓 **Computer Science Graduate** @ Bahria University Islamabad  
-<!--- 🧑‍💻 Focused on **Django Backend Development** and **Flutter Cross-Platform Apps**  -->
+- 🎓 **Computer Science Graduate** @ Bahria University Islamabad  <!--- 🧑‍💻 Focused on **Django Backend Development** and **Flutter Cross-Platform Apps**  -->
 - 💡 Passionate about building scalable APIs, clean UIs, and full-stack products  
 - 📫 Reach me at: **alibassam063@gmail.com**  
 - 🔗 [LinkedIn](https://linkedin.com/in/alibassam1) | [GitHub](https://github.com/alibassam24)
