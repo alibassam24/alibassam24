@@ -2,7 +2,7 @@
 <h3 align="center">ASE @TrySoftai</h3>
 <h3 align="center">Backend Developer | Flutter Mobile Developer | Computer Science Graduate</h3>
 
-<img align="right" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0" width="400" alt="coding">
+<!-- <img align="right" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0" width="400" alt="coding"> -->
 
 ---
 
