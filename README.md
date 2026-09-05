@@ -22,8 +22,8 @@
 ![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E?style=flat&logo=supabase&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-%23009688?style=flat&logo=fastapi&logoColor=white)
-![Next](https://img.shields.io/badge/Next-%2361DAFB?style=flat&logo=react&logoColor=white)
-![Typescript](https://img.shields.io/badge/Typescript-%2361DAFB?style=flat&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 ### 💬 Languages
 ![Python](https://img.shields.io/badge/Python-%2314354C?style=flat&logo=python&logoColor=white)
