@@ -102,10 +102,4 @@ I'm always happy to connect with fellow developers and talk about web developmen
 - **Instagram:** [@alibassam2.0](https://instagram.com/alibassam2.0)
 - **Email:** [alibassam063@gmail.com](mailto:alibassam063@gmail.com)
 
----
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=alibassam24&icon=0&color=0" alt="Profile visitor count">
-  </a>
-</p>
